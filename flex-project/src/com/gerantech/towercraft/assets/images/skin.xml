@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:91fdd9d56f06991583a86785ea02fa84:fb8a01af5d6eb68ee72d424c59f29b5a:934a5586d03181a1e5bc07b13fa2d8fa$ -->
+<TextureAtlas imagePath="skin.png">
+    <SubTexture name="arrow" x="347" y="434" width="16" height="16"/>
+    <SubTexture name="circle" x="2" y="516" width="230" height="175"/>
+    <SubTexture name="ground" x="2" y="2" width="343" height="512"/>
+    <SubTexture name="tower-type-0-b" x="526" y="217" width="152" height="202" frameX="-13" frameY="-12" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-0-r" x="705" y="2" width="152" height="202" frameX="-13" frameY="-12" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-0" x="859" y="2" width="152" height="202" frameX="-13" frameY="-12" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-1-b" x="234" y="516" width="152" height="198" frameX="-12" frameY="-9" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-1-r" x="388" y="637" width="152" height="198" frameX="-12" frameY="-9" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-1" x="680" y="217" width="152" height="198" frameX="-12" frameY="-10" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-2-b" x="388" y="434" width="152" height="201" frameX="-13" frameY="-12" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-2-r" x="542" y="421" width="152" height="201" frameX="-13" frameY="-12" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-2" x="542" y="624" width="152" height="201" frameX="-13" frameY="-13" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-3-b" x="834" y="206" width="152" height="198" frameX="-12" frameY="-14" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-3-r" x="696" y="417" width="152" height="198" frameX="-12" frameY="-14" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-3" x="696" y="617" width="152" height="198" frameX="-12" frameY="-15" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-4-b" x="2" y="693" width="152" height="191" frameX="-13" frameY="-23" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-4-r" x="850" y="406" width="152" height="191" frameX="-13" frameY="-23" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-4" x="850" y="599" width="152" height="190" frameX="-13" frameY="-24" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-5-b" x="347" y="2" width="177" height="214" frameX="-13" frameY="0" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-5-r" x="347" y="218" width="177" height="214" frameX="-13" frameY="0" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="tower-type-5" x="526" y="2" width="177" height="213" frameX="-13" frameY="-1" frameWidth="190" frameHeight="214"/>
+    <SubTexture name="troop-b" x="850" y="791" width="110" height="92"/>
+    <SubTexture name="troop-r" x="156" y="716" width="110" height="92"/>
+    <SubTexture name="troop" x="268" y="716" width="110" height="92"/>
+</TextureAtlas>
